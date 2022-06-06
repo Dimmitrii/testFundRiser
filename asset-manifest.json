@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e8c4e17.css",
+    "main.js": "/static/js/main.d8e20c15.js",
+    "static/js/787.2c84e7a8.chunk.js": "/static/js/787.2c84e7a8.chunk.js",
+    "static/media/bgVideo.mp4": "/static/media/bgVideo.ab0071556fc54bd58392.mp4",
+    "static/media/envioroment.jpg": "/static/media/envioroment.0f2f30fc78cfea32e46d.jpg",
+    "static/media/reconstruction.png": "/static/media/reconstruction.f82ce9fee340dd11c0b2.png",
+    "static/media/creative.jpg": "/static/media/creative.546180b1b4d9a1abba3f.jpg",
+    "static/media/education-title.jpg": "/static/media/education-title.a3308fe3a86439a7523c.jpg",
+    "static/media/poor.jpg": "/static/media/poor.4193efb024db9e693400.jpg",
+    "static/media/war.jpg": "/static/media/war.61a9e4b75ed82d4e7b6e.jpg",
+    "static/media/poor-title.jpg": "/static/media/poor-title.7729c8e4d254e902f847.jpg",
+    "static/media/education.jpg": "/static/media/education.84cfdc0326760df67692.jpg",
+    "static/media/war-title.jpg": "/static/media/war-title.eec1a471f8fa28db7dab.jpg",
+    "static/media/reconstruction-title.jpg": "/static/media/reconstruction-title.1f018fd286aa9cb33537.jpg",
+    "static/media/segregation.jpg": "/static/media/segregation.ed8083d7785c43e36963.jpg",
+    "static/media/segregation-title.jpg": "/static/media/segregation-title.a3ab3546b5445054e9b2.jpg",
+    "static/media/creative-title.jpg": "/static/media/creative-title.f6a4acf72065b13ec251.jpg",
+    "static/media/enviroment-title.jpeg": "/static/media/enviroment-title.6689e61caece1215ab14.jpeg",
+    "index.html": "/index.html",
+    "main.5e8c4e17.css.map": "/static/css/main.5e8c4e17.css.map",
+    "main.d8e20c15.js.map": "/static/js/main.d8e20c15.js.map",
+    "787.2c84e7a8.chunk.js.map": "/static/js/787.2c84e7a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8c4e17.css",
+    "static/js/main.d8e20c15.js"
+  ]
+}
